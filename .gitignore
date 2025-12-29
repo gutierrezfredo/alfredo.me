@@ -1,13 +1,7 @@
-# Hugo build output
-public/
-resources/
-
-# Hugo lock file
-.hugo_build.lock
-
-# OS files
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
 .DS_Store
-
-# Editor files
 *.swp
 *.swo
