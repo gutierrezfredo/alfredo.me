@@ -3,6 +3,8 @@ layout: home
 title: Alfredo Gutierrez
 ---
 
-# Hello
+# Alfredo Gutierrez
 
-Welcome to my corner of the internet.
+Designer by day, poet by night.
+
+[Blog](https://alfredo.blog) ・ [Portfolio](https://alfredo.design)
