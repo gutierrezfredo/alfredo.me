@@ -1,0 +1,14 @@
+baseURL = 'https://alfredo.me/'
+languageCode = 'en-us'
+title = 'Alfredo.me'
+
+copyright = "Copyright © 2025 Alfredo Gutierrez. All rights reserved."
+
+theme = "dario"
+
+[params]
+  description = "Alfredo's personal blog"
+
+  [params.author]
+    name = "Alfredo Gutierrez"
+    email = "alfredo@alfredo.me"
