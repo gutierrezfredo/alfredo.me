@@ -4,6 +4,52 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title }}</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=TikTok+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <script src="https://unpkg.com/@phosphor-icons/web"></script>
+  <style>
+    body {
+      max-width: 600px;
+      margin: 0 auto;
+      padding: 15% 2rem 0;
+      font-family: 'TikTok Sans', sans-serif;
+      background-color: #000;
+      color: rgba(255,255,255,0.7);
+      line-height: 1.7;
+    }
+    h1 {
+      font-weight: 700;
+      color: rgba(255,255,255,1);
+    }
+    a {
+      color: rgba(255,255,255,1);
+      text-decoration: none;
+      transition: opacity 0.2s ease;
+    }
+    a:hover {
+      opacity: 0.6;
+    }
+    p a:not(:has(i)) {
+      font-weight: 600;
+    }
+    a i {
+      font-size: 1.5rem;
+      margin: 0 1rem;
+    }
+    @media screen and (min-width: 768px) {
+      a i {
+        font-size: 2rem;
+      }
+    }
+    p {
+      margin-bottom: 1.5rem;
+    }
+    p:has(i) {
+      text-align: center;
+      margin-top: 5rem;
+    }
+  </style>
 </head>
 <body>
   {{ content }}
