@@ -57,9 +57,12 @@
     }
     p a:not(:has(i)) {
       font-weight: 600;
+      border-bottom: 1px solid transparent;
+      transition: color 0.2s ease, border-bottom 0.2s ease;
     }
     p a:not(:has(i)):hover {
-      border-bottom: 2px solid rgba(255,255,255,1);
+      border-bottom: 1px solid rgba(255,255,255,0.5);
+      color: rgba(255,255,255,0.5);
       opacity: 1;
     }
     a i {
