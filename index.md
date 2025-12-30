@@ -2,9 +2,7 @@
 title: Alfredo Gutierrez
 ---
 
-# Alfredo Gutierrez
-
-I’m a product designer. Currently designing operational software for the surrogacy industry at Orchid Software Solutions.
+I'm a product designer. Currently designing operational software for the surrogacy industry at Orchid Software Solutions.
 
 Over the past 7 years, I’ve helped scale startups and companies by developing custom, reliable software that streamlines business processes across healthcare, surrogacy, legal services, and government contracting industries.
 
